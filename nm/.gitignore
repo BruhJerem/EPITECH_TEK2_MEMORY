@@ -1,0 +1,8 @@
+vgcore.*
+cmake-build-debug/
+CMakeLists.txt
+tests/
+*.o
+.idea/
+my_nm
+my_objdump

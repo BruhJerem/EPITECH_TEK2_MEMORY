@@ -1,0 +1,7 @@
+*.o
+tests/
+cmake-build-debug
+CMakeLists.txt
+.idea/
+main.c
+vgcore.
